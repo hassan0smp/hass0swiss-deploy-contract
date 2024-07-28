@@ -25,4 +25,4 @@ This repository contains the necessary scripts to set up and interact with a sma
 
 ## Additional Information
 
-- Now visit : [Click Here](https://github.com/hassan0smp/hass0swiss-deploy-contract/blob/main/upload%20to%20github) to upload these codes in your github repository
+- Now visit : [Click Here](https://github.com/hassan0smp/hass0swiss-deploy-contract/blob/main/upload-to-github.md) to upload these codes in your github repository
