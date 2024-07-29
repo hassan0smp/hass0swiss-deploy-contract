@@ -10,10 +10,7 @@ git config --global user.email "youremail@gmail.com"
 git init
 ```
 ```bash
-git add .
-```
-```
-git commit -m "Initial commit"
+git add .  && git commit -m "Initial commit"
 ```
 - Create a repository in your github manually and copy the link of this repository
 ---
