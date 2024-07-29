@@ -14,7 +14,7 @@ This repository contains the necessary scripts to set up and interact with a sma
 2. **Run the Setup Script:**
 
     ```sh
-    ./swiss.sh
+    chmod +x swiss.sh && ./swiss.sh
     ```
 
 3. **Follow the Prompts:**
